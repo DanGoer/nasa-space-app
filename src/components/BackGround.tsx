@@ -1,4 +1,4 @@
-function BackGround({ children }) {
+function BackGround({ children }: any) {
   return (
     <div
       className="bg-fixed bg-center bg-cover bg-no-repeat w-full flex flex-col 
